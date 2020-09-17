@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login page</string>
+    <string name="login_page">Login page</string>
+    <string name="button">Button</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="password">Password</string>
+    <string name="username">userName</string>
+    <string name="name">Name</string>
+</resources>
